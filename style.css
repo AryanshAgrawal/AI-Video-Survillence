@@ -1,0 +1,33 @@
+body{
+text-align: center;
+background-image: url('background.jpg');
+background-size: cover;
+}
+.heading{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+}
+button{
+font-size: 18px;
+margin-top: 10px;
+}
+#numberofobjects,#status{
+font-size: 18px;
+margin-top: 10px;
+}
+#copy-right-footer{
+position: fixed;
+bottom: 0;
+width: 100%;
+background-color: mediumspringgreen;
+color: white;
+text-align: center;
+line-height: 3;
+}
+canvas{
+box-shadow: 15px 15px 15px white;
+border: 5px solid grey;
+margin-top: 60px;
+}
+
